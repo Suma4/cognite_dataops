@@ -17,6 +17,7 @@ variables:
       CDF_URL: https://westeurope-1.cognitedata.com
       IDP_SCOPES: https://westeurope-1.cognitedata.com/.default
       IDP_TOKEN_URL: ${IDP_TOKEN_URL} # replaced by .env
+      
       # Groups
       # OBJECT ID FOR TEST/PROD DATA PIPELINE OEE ENTRA GROUP
       data_pipeline_oee_source_id: a0c04fc3-b801-4670-b071-c33ec32cfefd
