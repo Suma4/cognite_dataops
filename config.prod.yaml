@@ -33,10 +33,11 @@ variables:
      # Variables shared by modules
       scheduleHourly: 14 1 * * *
 
+      
       icapi_ds_external_id: ds_icapi
       use_cases:
         oee:
           uc_oee_ds_external_id: ds_uc_oee
 
-          
+
 
